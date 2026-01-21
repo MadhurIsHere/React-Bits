@@ -3,7 +3,7 @@ import LightPillar from "./LightPillar";
 const App = () => {
   return (
     <>
-      <div className="relative flex justify-center items-center">
+      <div className="relative bg-black flex justify-center items-center">
         <div className="" style={{ width: "100%", height: "100dvh", position: "relative" }}>
           <LightPillar
             topColor="rgba(100, 200, 200, 0.9)"
